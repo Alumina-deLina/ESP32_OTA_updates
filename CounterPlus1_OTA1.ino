@@ -7,8 +7,8 @@ const char* ssid = "ICS Ryder on Olive";
 const char* password = "RUSzZz#6P7";
 
 // Fixed URL to check latest version and get firmware
-const char* version_url = "https://raw.githubusercontent.com/rajkishan89/Rodent-sensor/main/latest/version.txt";
-const char* firmware_url = "https://raw.githubusercontent.com/rajkishan89/Rodent-sensor/main/latest/firmware.bin";
+const char* version_url = "";
+const char* firmware_url = "https://github.com/Alumina-deLina/ESP32_OTA_updates/blob/main/CounterPlus1_OTA1.ino";
 
 
 const String current_version = "1.0.6"; // Update this when you build a new .bin
